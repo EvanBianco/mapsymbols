@@ -1,0 +1,268 @@
+# Code
+# Description
+BORHOL
+Borehole
+DRILNG
+Well Drilling
+FAULTED
+Faulted / Shaled out
+LOCPRO
+Planned well
+OBSER
+Observation well
+STATUN
+Status unknown
+TIGHT
+Tight hole
+W000P
+Well location
+W000X
+Suspended well
+W00DF
+Dump flood well
+WRCSD
+Well reaching caprock of salt dome
+ZONTRE
+Zone of map not reached
+W000A
+Plugged and abandoned
+W010A
+Plugged and abandoned, gas shows
+W020A
+Plugged and abandoned, gas interpreted productive
+W030A
+Plugged and abandoned, gas proven productive
+W100A
+Plugged and abandoned, oil shows
+W110A
+Plugged and abandoned, oil and gas shows
+W120A
+Plugged and abandoned, oil shows, gas interpreted productive
+W130A
+Plugged and abandoned, oil shows, gas proven productive
+W200A
+Plugged and abandoned, oil interpreted productive
+W210A
+Plugged and abandoned, oil interpreted productive, gas shows
+W220A
+Plugged and abandoned, oil and gas interpreted productive
+W230A
+Plugged and abandoned, oil interpreted productive, gas proven productive
+W300A
+Plugged and abandoned, oil proven productive
+W310A
+Plugged and abandoned, oil proven productive, gas shows
+W320A
+Plugged and abandoned, oil proven productive, gas interpreted productive
+W330A
+Plugged and abandoned, oil and gas proven productive
+WT00A
+Plugged and abandoned, Tar / bitumen shows
+W030D
+Formerly productive now exhausted, gas proven productive
+W030DA
+Formerly productive now exhausted and abandoned, gas proven productive
+W130D
+Formerly productive now exhausted, oil shows, gas proven productive
+W130DA
+Formerly productive now exhausted and abandoned, oil shows,gas proven productive
+W230D
+Formerly productive now exhausted, oil interpreted productive, gas proven productive
+W230DA
+Formerly productive now exhausted and abandoned, oil interpreted productive,gas proven productive
+W300D
+Formerly productive now exhausted, oil proven productive
+W300DA
+Formerly productive now exhausted and abandoned, oil proven productive
+W310D
+Formerly productive now exhausted, oil proven productive, gas shows
+W310DA
+Formerly productive now exhausted and abandoned,oil proven productive, gas shows
+W320D
+Formerly productive now exhausted, oil proven productive, gas interpreted productive
+W320DA
+Formerly productive now exhausted and abandoned,oil proven productive, gas interpreted productive
+W330D
+Formerly productive now exhausted, oil and gas proven productive
+W330DA
+Formerly productive now exhausted and abandoned,oil and gas proven productive
+W010P
+Producing, gas shows
+W020P
+Producing, gas interpreted productive
+W030P
+Producing, gas proven productive
+W100P
+Producing, oil shows
+W110P
+Producing, oil and gas shows
+W120P
+Producing, oil shows, gas interpreted productive
+W130P
+Producing, oil shows, gas proven productive
+W200P
+Producing, oil interpreted productive
+W210P
+Producing, oil interpreted productive, gas shows
+W220P
+Producing, oil and gas interpreted productive
+W230P
+Producing, oil interpreted productive, gas proven productive
+W300P
+Producing, oil proven productive
+W310P
+Producing, oil proven productive, gas shows
+W320P
+Producing, oil proven productive, gas interpreted productive
+W330P
+Producing, oil and gas proven productive
+WT00P
+Producing, tarry oil
+W000S
+Well closed in
+W010S
+Well closed in, gas shows
+W020S
+Well closed in, gas interpreted productive
+W030S
+Well closed in, gas proven productive
+W100S
+Well closed in, oil shows
+W110S
+Well closed in, oil and gas shows
+W120S
+Well closed in, oil shows, gas interpreted productive
+W130S
+Well closed in, oil shows, gas proven productive
+W200S
+Well closed in, oil interpreted productive
+W210S
+Well closed in, oil interpreted productive, gas shows
+W220S
+Well closed in, oil and gas interpreted productive
+W230S
+Well closed in, oil interpreted productive, gas proven productive
+W300S
+Well closed in, oil proven productive
+W310S
+Well closed in, oil proven productive, gas shows
+W320S
+Well closed in, oil proven productive, gas interpreted productive
+W330S
+Well closed in, oil and gas proven productive
+WT00S
+Well closed in, tarry oil
+CLOCPRO
+Corehole well, planned
+PLOCPRO
+Pilot well, planned
+SLOCPRO
+Stratigraphic well, planned
+WC000A
+Corehole well, plugged and abandoned, dry
+WC010A
+Corehole well, plugged and abandoned, gas shows
+WC010P
+Corehole well, gas shows
+WC020A
+Corehole well, plugged and abandoned, gas interpreted productive
+WC020P
+Corehole well, gas interpreted productive
+WC030A
+Corehole well, plugged and abandoned, gas proven productive
+WC030P
+Corehole well, gas proven productive
+WP000A
+Pilot well, plugged and abandoned, dry
+WP010A
+Pilot well, plugged and abandoned, gas shows
+WP010P
+Pilot well, gas shows
+WP020A
+Pilot well, plugged and abandoned, gas interpreted productive
+WP020P
+Pilot well, gas interpreted productive
+WP030A
+Pilot well, plugged and abandoned, gas proven productive
+WP030P
+Pilot well, gas proven productive
+WS000A
+Stratigraphic well, plugged and abandoned, dry
+WS010A
+Stratigraphic well, plugged and abandoned, gas shows
+WS010P
+Stratigraphic well, gas shows
+WS020A
+Stratigraphic well, plugged and abandoned, gas interpreted productive
+WS020P
+Stratigraphic well, gas interpreted productive
+WS030A
+Stratigraphic well, plugged and abandoned, gas proven productive
+WS030P
+Stratigraphic well, gas proven productive
+W000I
+Injector
+W00PI
+Planned injector
+WC00I
+Injector, CO2
+WC0PI
+Planned injector, CO2
+WG0PI
+Planned injector, gas
+WI00A
+Injector, Plugged and abandoned
+WIC0A
+Injector, Plugged and abandoned, CO2
+WIC0S
+Injector, Closed in, CO2
+WIG0A
+Injector, Plugged and abandoned, gas
+WIG0S
+Injector, Closed in, gas
+WIN0A
+Injector, Plugged and abandoned, nitrogen
+WIN0S
+Injector, Closed in, nitrogen
+WIP0A
+Injector, Plugged and abandoned, polymer
+WIP0S
+Injector, Closed in, polymer
+WIS0A
+Injector, Plugged and abandoned, steam
+WIS0S
+Injector, Closed in, steam
+WIW0A
+Injector, Plugged and abandoned, water
+WIW0S
+Injector, Closed in, water
+WN00I
+Injector, nitrogen
+WN0PI
+Planned injector, nitrogen
+WP00I
+Injector, polymer
+WP0PI
+Planned injector, polymer
+WS00I
+Injector, steam
+WS0PI
+Planned injector, steam
+WSUWA
+Supply well, Plugged and abandoned, water
+WSUWD
+Supply well, Formerly productive now exhausted.
+WSUWDA
+Supply well, Plugged and Abondoned, Formerly productive now exhausted.
+WSUWS
+Supply well, Closed in, water
+WSWDI
+Salt water disposal well
+WW00I
+Injector, water
+WW0PI
+Planned injector, water
+WW0SU
+Supply well, water
+WWPSU
+Planned supply well, water
